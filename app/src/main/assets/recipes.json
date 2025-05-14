@@ -1,0 +1,422 @@
+[
+  {
+    "category": "Aperitivos",
+    "recipes": [
+      {
+        "title": "Receta 1 de Aperitivos",
+        "description": "Descripción fácil de Receta 1 de Aperitivos.",
+        "image": "aperitivos_1.png"
+      },
+      {
+        "title": "Receta 2 de Aperitivos",
+        "description": "Descripción fácil de Receta 2 de Aperitivos.",
+        "image": "aperitivos_2.png"
+      },
+      {
+        "title": "Receta 3 de Aperitivos",
+        "description": "Descripción fácil de Receta 3 de Aperitivos.",
+        "image": "aperitivos_3.png"
+      },
+      {
+        "title": "Receta 4 de Aperitivos",
+        "description": "Descripción fácil de Receta 4 de Aperitivos.",
+        "image": "aperitivos_4.png"
+      },
+      {
+        "title": "Receta 5 de Aperitivos",
+        "description": "Descripción fácil de Receta 5 de Aperitivos.",
+        "image": "aperitivos_5.png"
+      },
+      {
+        "title": "Receta 6 de Aperitivos",
+        "description": "Descripción fácil de Receta 6 de Aperitivos.",
+        "image": "aperitivos_6.png"
+      },
+      {
+        "title": "Receta 7 de Aperitivos",
+        "description": "Descripción fácil de Receta 7 de Aperitivos.",
+        "image": "aperitivos_7.png"
+      },
+      {
+        "title": "Receta 8 de Aperitivos",
+        "description": "Descripción fácil de Receta 8 de Aperitivos.",
+        "image": "aperitivos_8.png"
+      },
+      {
+        "title": "Receta 9 de Aperitivos",
+        "description": "Descripción fácil de Receta 9 de Aperitivos.",
+        "image": "aperitivos_9.png"
+      },
+      {
+        "title": "Receta 10 de Aperitivos",
+        "description": "Descripción fácil de Receta 10 de Aperitivos.",
+        "image": "aperitivos_10.png"
+      },
+      {
+        "title": "Receta 11 de Aperitivos",
+        "description": "Descripción fácil de Receta 11 de Aperitivos.",
+        "image": "aperitivos_11.png"
+      },
+      {
+        "title": "Receta 12 de Aperitivos",
+        "description": "Descripción fácil de Receta 12 de Aperitivos.",
+        "image": "aperitivos_12.png"
+      },
+      {
+        "title": "Receta 13 de Aperitivos",
+        "description": "Descripción fácil de Receta 13 de Aperitivos.",
+        "image": "aperitivos_13.png"
+      },
+      {
+        "title": "Receta 14 de Aperitivos",
+        "description": "Descripción fácil de Receta 14 de Aperitivos.",
+        "image": "aperitivos_14.png"
+      },
+      {
+        "title": "Receta 15 de Aperitivos",
+        "description": "Descripción fácil de Receta 15 de Aperitivos.",
+        "image": "aperitivos_15.png"
+      },
+      {
+        "title": "Receta 16 de Aperitivos",
+        "description": "Descripción fácil de Receta 16 de Aperitivos.",
+        "image": "aperitivos_16.png"
+      },
+      {
+        "title": "Receta 17 de Aperitivos",
+        "description": "Descripción fácil de Receta 17 de Aperitivos.",
+        "image": "aperitivos_17.png"
+      },
+      {
+        "title": "Receta 18 de Aperitivos",
+        "description": "Descripción fácil de Receta 18 de Aperitivos.",
+        "image": "aperitivos_18.png"
+      },
+      {
+        "title": "Receta 19 de Aperitivos",
+        "description": "Descripción fácil de Receta 19 de Aperitivos.",
+        "image": "aperitivos_19.png"
+      },
+      {
+        "title": "Receta 20 de Aperitivos",
+        "description": "Descripción fácil de Receta 20 de Aperitivos.",
+        "image": "aperitivos_20.png"
+      }
+    ]
+  },
+  {
+    "category": "Primeros",
+    "recipes": [
+      {
+        "title": "Receta 1 de Primeros",
+        "description": "Descripción fácil de Receta 1 de Primeros.",
+        "image": "primeros_1.png"
+      },
+      {
+        "title": "Receta 2 de Primeros",
+        "description": "Descripción fácil de Receta 2 de Primeros.",
+        "image": "primeros_2.png"
+      },
+      {
+        "title": "Receta 3 de Primeros",
+        "description": "Descripción fácil de Receta 3 de Primeros.",
+        "image": "primeros_3.png"
+      },
+      {
+        "title": "Receta 4 de Primeros",
+        "description": "Descripción fácil de Receta 4 de Primeros.",
+        "image": "primeros_4.png"
+      },
+      {
+        "title": "Receta 5 de Primeros",
+        "description": "Descripción fácil de Receta 5 de Primeros.",
+        "image": "primeros_5.png"
+      },
+      {
+        "title": "Receta 6 de Primeros",
+        "description": "Descripción fácil de Receta 6 de Primeros.",
+        "image": "primeros_6.png"
+      },
+      {
+        "title": "Receta 7 de Primeros",
+        "description": "Descripción fácil de Receta 7 de Primeros.",
+        "image": "primeros_7.png"
+      },
+      {
+        "title": "Receta 8 de Primeros",
+        "description": "Descripción fácil de Receta 8 de Primeros.",
+        "image": "primeros_8.png"
+      },
+      {
+        "title": "Receta 9 de Primeros",
+        "description": "Descripción fácil de Receta 9 de Primeros.",
+        "image": "primeros_9.png"
+      },
+      {
+        "title": "Receta 10 de Primeros",
+        "description": "Descripción fácil de Receta 10 de Primeros.",
+        "image": "primeros_10.png"
+      },
+      {
+        "title": "Receta 11 de Primeros",
+        "description": "Descripción fácil de Receta 11 de Primeros.",
+        "image": "primeros_11.png"
+      },
+      {
+        "title": "Receta 12 de Primeros",
+        "description": "Descripción fácil de Receta 12 de Primeros.",
+        "image": "primeros_12.png"
+      },
+      {
+        "title": "Receta 13 de Primeros",
+        "description": "Descripción fácil de Receta 13 de Primeros.",
+        "image": "primeros_13.png"
+      },
+      {
+        "title": "Receta 14 de Primeros",
+        "description": "Descripción fácil de Receta 14 de Primeros.",
+        "image": "primeros_14.png"
+      },
+      {
+        "title": "Receta 15 de Primeros",
+        "description": "Descripción fácil de Receta 15 de Primeros.",
+        "image": "primeros_15.png"
+      },
+      {
+        "title": "Receta 16 de Primeros",
+        "description": "Descripción fácil de Receta 16 de Primeros.",
+        "image": "primeros_16.png"
+      },
+      {
+        "title": "Receta 17 de Primeros",
+        "description": "Descripción fácil de Receta 17 de Primeros.",
+        "image": "primeros_17.png"
+      },
+      {
+        "title": "Receta 18 de Primeros",
+        "description": "Descripción fácil de Receta 18 de Primeros.",
+        "image": "primeros_18.png"
+      },
+      {
+        "title": "Receta 19 de Primeros",
+        "description": "Descripción fácil de Receta 19 de Primeros.",
+        "image": "primeros_19.png"
+      },
+      {
+        "title": "Receta 20 de Primeros",
+        "description": "Descripción fácil de Receta 20 de Primeros.",
+        "image": "primeros_20.png"
+      }
+    ]
+  },
+  {
+    "category": "Segundos",
+    "recipes": [
+      {
+        "title": "Receta 1 de Segundos",
+        "description": "Descripción fácil de Receta 1 de Segundos.",
+        "image": "segundos_1.png"
+      },
+      {
+        "title": "Receta 2 de Segundos",
+        "description": "Descripción fácil de Receta 2 de Segundos.",
+        "image": "segundos_2.png"
+      },
+      {
+        "title": "Receta 3 de Segundos",
+        "description": "Descripción fácil de Receta 3 de Segundos.",
+        "image": "segundos_3.png"
+      },
+      {
+        "title": "Receta 4 de Segundos",
+        "description": "Descripción fácil de Receta 4 de Segundos.",
+        "image": "segundos_4.png"
+      },
+      {
+        "title": "Receta 5 de Segundos",
+        "description": "Descripción fácil de Receta 5 de Segundos.",
+        "image": "segundos_5.png"
+      },
+      {
+        "title": "Receta 6 de Segundos",
+        "description": "Descripción fácil de Receta 6 de Segundos.",
+        "image": "segundos_6.png"
+      },
+      {
+        "title": "Receta 7 de Segundos",
+        "description": "Descripción fácil de Receta 7 de Segundos.",
+        "image": "segundos_7.png"
+      },
+      {
+        "title": "Receta 8 de Segundos",
+        "description": "Descripción fácil de Receta 8 de Segundos.",
+        "image": "segundos_8.png"
+      },
+      {
+        "title": "Receta 9 de Segundos",
+        "description": "Descripción fácil de Receta 9 de Segundos.",
+        "image": "segundos_9.png"
+      },
+      {
+        "title": "Receta 10 de Segundos",
+        "description": "Descripción fácil de Receta 10 de Segundos.",
+        "image": "segundos_10.png"
+      },
+      {
+        "title": "Receta 11 de Segundos",
+        "description": "Descripción fácil de Receta 11 de Segundos.",
+        "image": "segundos_11.png"
+      },
+      {
+        "title": "Receta 12 de Segundos",
+        "description": "Descripción fácil de Receta 12 de Segundos.",
+        "image": "segundos_12.png"
+      },
+      {
+        "title": "Receta 13 de Segundos",
+        "description": "Descripción fácil de Receta 13 de Segundos.",
+        "image": "segundos_13.png"
+      },
+      {
+        "title": "Receta 14 de Segundos",
+        "description": "Descripción fácil de Receta 14 de Segundos.",
+        "image": "segundos_14.png"
+      },
+      {
+        "title": "Receta 15 de Segundos",
+        "description": "Descripción fácil de Receta 15 de Segundos.",
+        "image": "segundos_15.png"
+      },
+      {
+        "title": "Receta 16 de Segundos",
+        "description": "Descripción fácil de Receta 16 de Segundos.",
+        "image": "segundos_16.png"
+      },
+      {
+        "title": "Receta 17 de Segundos",
+        "description": "Descripción fácil de Receta 17 de Segundos.",
+        "image": "segundos_17.png"
+      },
+      {
+        "title": "Receta 18 de Segundos",
+        "description": "Descripción fácil de Receta 18 de Segundos.",
+        "image": "segundos_18.png"
+      },
+      {
+        "title": "Receta 19 de Segundos",
+        "description": "Descripción fácil de Receta 19 de Segundos.",
+        "image": "segundos_19.png"
+      },
+      {
+        "title": "Receta 20 de Segundos",
+        "description": "Descripción fácil de Receta 20 de Segundos.",
+        "image": "segundos_20.png"
+      }
+    ]
+  },
+  {
+    "category": "Postres",
+    "recipes": [
+      {
+        "title": "Receta 1 de Postres",
+        "description": "Descripción fácil de Receta 1 de Postres.",
+        "image": "postres_1.png"
+      },
+      {
+        "title": "Receta 2 de Postres",
+        "description": "Descripción fácil de Receta 2 de Postres.",
+        "image": "postres_2.png"
+      },
+      {
+        "title": "Receta 3 de Postres",
+        "description": "Descripción fácil de Receta 3 de Postres.",
+        "image": "postres_3.png"
+      },
+      {
+        "title": "Receta 4 de Postres",
+        "description": "Descripción fácil de Receta 4 de Postres.",
+        "image": "postres_4.png"
+      },
+      {
+        "title": "Receta 5 de Postres",
+        "description": "Descripción fácil de Receta 5 de Postres.",
+        "image": "postres_5.png"
+      },
+      {
+        "title": "Receta 6 de Postres",
+        "description": "Descripción fácil de Receta 6 de Postres.",
+        "image": "postres_6.png"
+      },
+      {
+        "title": "Receta 7 de Postres",
+        "description": "Descripción fácil de Receta 7 de Postres.",
+        "image": "postres_7.png"
+      },
+      {
+        "title": "Receta 8 de Postres",
+        "description": "Descripción fácil de Receta 8 de Postres.",
+        "image": "postres_8.png"
+      },
+      {
+        "title": "Receta 9 de Postres",
+        "description": "Descripción fácil de Receta 9 de Postres.",
+        "image": "postres_9.png"
+      },
+      {
+        "title": "Receta 10 de Postres",
+        "description": "Descripción fácil de Receta 10 de Postres.",
+        "image": "postres_10.png"
+      },
+      {
+        "title": "Receta 11 de Postres",
+        "description": "Descripción fácil de Receta 11 de Postres.",
+        "image": "postres_11.png"
+      },
+      {
+        "title": "Receta 12 de Postres",
+        "description": "Descripción fácil de Receta 12 de Postres.",
+        "image": "postres_12.png"
+      },
+      {
+        "title": "Receta 13 de Postres",
+        "description": "Descripción fácil de Receta 13 de Postres.",
+        "image": "postres_13.png"
+      },
+      {
+        "title": "Receta 14 de Postres",
+        "description": "Descripción fácil de Receta 14 de Postres.",
+        "image": "postres_14.png"
+      },
+      {
+        "title": "Receta 15 de Postres",
+        "description": "Descripción fácil de Receta 15 de Postres.",
+        "image": "postres_15.png"
+      },
+      {
+        "title": "Receta 16 de Postres",
+        "description": "Descripción fácil de Receta 16 de Postres.",
+        "image": "postres_16.png"
+      },
+      {
+        "title": "Receta 17 de Postres",
+        "description": "Descripción fácil de Receta 17 de Postres.",
+        "image": "postres_17.png"
+      },
+      {
+        "title": "Receta 18 de Postres",
+        "description": "Descripción fácil de Receta 18 de Postres.",
+        "image": "postres_18.png"
+      },
+      {
+        "title": "Receta 19 de Postres",
+        "description": "Descripción fácil de Receta 19 de Postres.",
+        "image": "postres_19.png"
+      },
+      {
+        "title": "Receta 20 de Postres",
+        "description": "Descripción fácil de Receta 20 de Postres.",
+        "image": "postres_20.png"
+      }
+    ]
+  }
+]
