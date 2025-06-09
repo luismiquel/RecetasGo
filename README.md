@@ -7,10 +7,11 @@
 ## Características
 
 - 📋 80 recetas (20 por categoría).  
-- 🖼️ Imágenes de cada receta (placeholder o reales).  
-- 🔄 Navegación por pestañas con Compose.  
-- 🌐 Datos cargados desde `assets/recipes.json`.  
+- 🖼️ Imágenes de cada receta (placeholder o reales).
+- 🔄 Navegación por pestañas con Compose.
+- 🌐 Datos cargados desde `assets/recipes.json`.
 - 🚀 Diseño limpio con Material Design.
+- 🛠️ Cada receta incluye ingredientes y tiempo de preparación.
 
 ---
 

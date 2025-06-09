@@ -32,6 +32,8 @@ fun RecipeCard(recipe: Recipe) {
             Column {
                 Text(recipe.title)
                 Text(recipe.description)
+                Text("Ingredientes: " + recipe.ingredients.joinToString(", "))
+                Text("Tiempo: " + recipe.time)
             }
         }
     }

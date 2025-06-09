@@ -3,5 +3,7 @@ package com.example.recetasgo.data
 data class Recipe(
     val title: String,
     val description: String,
-    val image: String
+    val image: String,
+    val ingredients: List<String>,
+    val time: String
 )
